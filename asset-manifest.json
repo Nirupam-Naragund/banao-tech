@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/banao-tech/static/css/main.19cd4ad8.css",
+    "main.js": "/banao-tech/static/js/main.7fea48b3.js",
+    "static/js/453.e56fec51.chunk.js": "/banao-tech/static/js/453.e56fec51.chunk.js",
+    "index.html": "/banao-tech/index.html",
+    "main.19cd4ad8.css.map": "/banao-tech/static/css/main.19cd4ad8.css.map",
+    "main.7fea48b3.js.map": "/banao-tech/static/js/main.7fea48b3.js.map",
+    "453.e56fec51.chunk.js.map": "/banao-tech/static/js/453.e56fec51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19cd4ad8.css",
+    "static/js/main.7fea48b3.js"
+  ]
+}
